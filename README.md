@@ -22,7 +22,7 @@ This repository provides a Dockerized setup for **MLflow**, an open-source platf
 
 2. Clone this repository:
    ```bash
-   git clone https://github.com/Firas-Ruine/mlflow.git
+   git clone https://github.com/Firas-Ruine/mlflow-docker-stack.git
    cd mlflow
    ```
 
